@@ -1,0 +1,16 @@
+README.rst
+setup.cfg
+setup.py
+gql/__init__.py
+gql/client.py
+gql/dsl.py
+gql/gql.py
+gql.egg-info/PKG-INFO
+gql.egg-info/SOURCES.txt
+gql.egg-info/dependency_links.txt
+gql.egg-info/requires.txt
+gql.egg-info/top_level.txt
+gql/transport/__init__.py
+gql/transport/http.py
+gql/transport/local_schema.py
+gql/transport/requests.py
